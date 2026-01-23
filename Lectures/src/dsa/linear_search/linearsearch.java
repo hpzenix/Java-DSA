@@ -1,4 +1,4 @@
-package dsa.arrays;
+package dsa.linear_search;
 
 public class linearsearch {
     

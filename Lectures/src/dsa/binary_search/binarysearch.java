@@ -1,4 +1,4 @@
-package dsa.arrays;
+package dsa.binary_search;
 
 public class binarysearch {
     
